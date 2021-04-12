@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<distances>
+
+    <distance>
+        <from_city>Kazan</from_city>
+        <to_city>Samara</to_city>
+        <distance>367</distance>
+    </distance>
+
+    <distance>
+        <from_city>Cheboksary</from_city>
+        <to_city>Samara</to_city>
+        <distance>472</distance>
+    </distance>
+
+    <distance>
+        <from_city>Paris</from_city>
+        <to_city>Samara</to_city>
+        <distance>3918</distance>
+    </distance>
+
+    <distance>
+        <from_city>Praga</from_city>
+        <to_city>Samara</to_city>
+        <distance>3008</distance>
+    </distance>
+
+</distances>
